@@ -1,0 +1,5 @@
+.documentation
+.idea
+*.iml
+out
+gen

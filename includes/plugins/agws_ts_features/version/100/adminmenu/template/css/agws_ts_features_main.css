@@ -1,0 +1,20 @@
+#ts_features_wrapper,#ts_features_wrapper2{width:900px;}
+#ts-image {text-align:center;}
+.box_error, .box_info,.box_success{margin-top:20px;}
+::-webkit-input-placeholder { /* WebKit browsers */ color: #a1a1a1 !important;}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */   color: #a1a1a1 !important; opacity: 1 !important;}
+::-moz-placeholder { /* Mozilla Firefox 19+ */   color: #a1a1a1 !important; opacity: 1 !important;}
+:-ms-input-placeholder { /* Internet Explorer 10+ */  color: #a1a1a1 !important;}
+#ts-id-add {margin: 30px 0;}
+form fieldset {border: 1px solid #ddd; border-radius: 3px; display: block; margin: 0 0 1em; padding: 40px;}
+form fieldset label {display: inline-block; margin-right: 20px; min-width: 100px;}
+#content form[name="ts_id_options"] input#ts_id {color: #a1a1a1;text-align: center;}
+form fieldset input.button {margin-left: 20px;}
+table th, table thead th {text-align: left;}
+#ts_features_wrapper2 > form > fieldset > ul > li {min-height:32px;}
+#ts_features_wrapper2 > form > fieldset > ul > li.spacer {height:50px;}
+#ts_features_wrapper2 > form > fieldset > ul > li > span {float:right;}
+#ts_features_wrapper2 > form > fieldset > ul > li > span > select {width:200px;}
+#ts_features_wrapper2 > form > fieldset > ul > li > span > input[type='checkbox'] {height: 32px; line-height: 32px; vertical-align: middle;}
+#ts_features_wrapper2 > form > fieldset > ul > li > span > span {display: inline-block; width: 204px;}
+#ts_features_wrapper2 > form > fieldset > ul > li > textarea {margin: 10px 0;}
